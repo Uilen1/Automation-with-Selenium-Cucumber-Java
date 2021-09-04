@@ -1,0 +1,70 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "line": 8,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": []
+      },
+      {
+        "start_timestamp": "2021-09-04T03:34:08.053Z",
+        "line": 12,
+        "name": "Deve acessar o site de exemplo",
+        "description": "",
+        "id": "realizar-o-download-de-uma-carta-de-circularização;deve-acessar-o-site-de-exemplo",
+        "type": "scenario",
+        "keyword": "Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 302833000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "que clico em \"Input Forms\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Input Forms\"",
+                  "offset": 13
+                }
+              ],
+              "location": "steps.ExampleStep.queClicoEm(java.lang.String)"
+            },
+            "keyword": "Dado "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@EXAMPLES"
+          },
+          {
+            "name": "@Examples_01"
+          },
+          {
+            "name": "@validado"
+          }
+        ]
+      }
+    ],
+    "name": "Realizar o download de uma carta de circularização",
+    "description": "  Como um usuário\n  Eu quero validar as funcionalidades da tela de download da carta de circularização",
+    "id": "realizar-o-download-de-uma-carta-de-circularização",
+    "keyword": "Funcionalidade",
+    "uri": "file:///home/idd_umoreira/%C3%81rea%20de%20Trabalho/prototipos/Selenium%20with%20Cucumber/src/test/resources/example.feature",
+    "tags": [
+      {
+        "name": "@EXAMPLES",
+        "type": "Tag",
+        "location": {
+          "line": 3,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

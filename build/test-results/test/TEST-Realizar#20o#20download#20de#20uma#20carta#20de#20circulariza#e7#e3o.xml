@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realizar o download de uma carta de circularização" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-04T03:34:07" hostname="NI-INV2393" time="0.533">
+  <properties/>
+  <testcase name="Deve acessar o site de exemplo" classname="Realizar o download de uma carta de circularização" time="0.533"/>
+  <system-out><![CDATA[
+@EXAMPLES @Examples_01 @validado
+Cenário: Deve acessar o site de exemplo # ///home/idd_umoreira/Área de Trabalho/prototipos/Selenium with Cucumber/src/test/resources/example.feature:12
+  Dado que clico em "Input Forms"       # steps.ExampleStep.queClicoEm(java.lang.String)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
